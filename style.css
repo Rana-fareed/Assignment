@@ -1,0 +1,10 @@
+.parent{
+    background-color: rgb(194, 248, 230);
+    text-align: center;
+}
+p,span,input{
+    font-size: 25px;
+}
+.txt{
+    font-size: 25px;
+}
