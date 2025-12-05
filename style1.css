@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Lavishly-Yours';
+    src: url(Lavishly_Yours/LavishlyYours-Regular.ttf);
+}
+.parent{
+    background-image: url(Laptop1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+h1{
+    font-family: 'Lavishly-Yours', sans-serif;
+    font-size: 3em;
+    color: rgb(7, 111, 176);
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 2.5em;
+    text-decoration: underline;
+    color: bisque;
+}
+
+table{
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.8em;
+    background-color: rgb(19, 19, 22);
+    
+}
+a{
+    text-decoration: none ;
+}
+.btn{
+    font-size: 1em;
+    background-color: blanchedalmond;
+}
+.in{
+
+    font-size: 1em;
+}
